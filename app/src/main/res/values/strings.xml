@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coal Storage</string>
+    <string name="title">Database for Coal Dump</string>
+    <string name="dept">Department</string>
+    <string name="Coal_Dumped">Coal Dumped(in tonnes)</string>
+    <string name="amnt">Amount</string>
+</resources>
